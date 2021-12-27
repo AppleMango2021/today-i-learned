@@ -2,7 +2,7 @@
 
 - 컴퓨터의 전체적인 구성 
     - 참고 : https://slidesplayer.org/slide/16465850/
-        ![컴퓨터의 구성](computer_structure_image1.png)
+    - ![컴퓨터의 구성](computer_structure_image1.png)
     
     - 중앙처리장치(Central Processing Unit)
         - CPU 
