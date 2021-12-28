@@ -49,12 +49,14 @@
         sudo chmod +x ./실행하려던-파일
         password : #패스워드 입력 
     ```
-  
 
 ### 리눅스
 
 ### 컴퓨터 구조
 - [패스트캠퍼스 컴퓨터 구조 강의](computer-structure/fast-campus.md)
+
+### 기타
+- UTF-8과 MySQL의 utf8mb4 (TO-DO)
 
   
     
