@@ -51,6 +51,7 @@
     ```
 
 ### 리눅스
+- [인프런 리눅스 강의](operating-system/linux.md)
 
 ### 컴퓨터 구조
 - [패스트캠퍼스 컴퓨터 구조 강의](computer-structure/fast-campus.md)
